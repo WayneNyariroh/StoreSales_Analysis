@@ -7,4 +7,4 @@ Going through the data processing, cleaning and handling any missing values. Bef
 
 A [Dashboard](https://github.com/WayneNyariroh/StoreSales_PowerBI_Dashboard) for the project is also available.
 
-![SuperStore Sales Dashboard!](/assets/images/DashboardScreenshot.png)
+![StoreSales_Dashboard!](assets/images/DashboardScreenshot.png "SuperStore Sales Dashboard")
