@@ -9,12 +9,22 @@ A [Dashboard](https://github.com/WayneNyariroh/StoreSales_PowerBI_Dashboard) for
 
 Feel free you get the source and make your own amd further analysis
 
-> git clone https://github.com/WayneNyariroh/StoreSales_Analysis.git
+Get the source code to your pc by cloning the repository. In your terminal
+'''
+** git clone https://github.com/WayneNyariroh/StoreSales_Analysis.git**
+'''
 
-> cd StoreSales_Analysis
+Change directory into the repository
+'''
+** cd StoreSales_Analysis**
+'''
 
-> pip install -r requirements.txt
+Activate or create your python virtual environment. Proceed to install the requirements for the project using
+'''
+** pip install -r requirements.txt**
+'''
 
-Activate your python environment
-
-> jupyter lab
+Open up jupyterlab by typing the following command in the terminal
+'''
+** jupyter lab**
+'''
