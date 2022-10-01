@@ -7,24 +7,28 @@ A [Dashboard](https://github.com/WayneNyariroh/StoreSales_PowerBI_Dashboard) for
 
 ![StoreSales_Dashboard!](assets/images/DashboardScreenshot.png "SuperStore Sales Dashboard")
 
-Feel free you get the source and make your own amd further analysis
+> Feel free you get the source and make your own and further analysis by either forking to your own github or cloning to your local pc.
 
-Get the source code to your pc by cloning the repository. In your terminal
-'''
+To clone
+
+```
 ** git clone https://github.com/WayneNyariroh/StoreSales_Analysis.git**
-'''
+```
 
 Change directory into the repository
-'''
+
+```
 ** cd StoreSales_Analysis**
-'''
+```
 
 Activate or create your python virtual environment. Proceed to install the requirements for the project using
-'''
-** pip install -r requirements.txt**
-'''
 
-Open up jupyterlab by typing the following command in the terminal
-'''
+```
+** pip install -r requirements.txt**
+```
+
+Type the following command in the terminal
+
+```
 ** jupyter lab**
-'''
+```
