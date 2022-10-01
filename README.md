@@ -1,9 +1,10 @@
 # StoreSales_Analysis
 
 SuperStore Sales Dataset EDA and Visualization using Python.
-Going through the data cleaning and processing; before exploring the sales and performance of the store, querying the dataset and visualizing the findings.
 
-A [Dashboard](https://github.com/WayneNyariroh/StoreSales_PowerBI_Dashboard) for the project is also available.
+> Going through the data cleaning and processing; before exploring the sales and performance of the store, querying the dataset and visualizing the findings.
+
+A [Dashboard](https://github.com/WayneNyariroh/StoreSales_PowerBI_Dashboard) for the project made in PowerBI is also linked.
 
 ![StoreSales_Dashboard!](assets/images/DashboardScreenshot.png "SuperStore Sales Dashboard")
 
@@ -21,7 +22,7 @@ Change directory into the repository
  cd StoreSales_Analysis
 ```
 
-Activate or create your python virtual environment. Proceed to install the requirements for the project using
+Activate or create your python virtual environment. Proceed to install the libs/packages for the project using
 
 ```
  pip install -r requirements.txt
