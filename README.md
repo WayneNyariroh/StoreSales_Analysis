@@ -12,23 +12,23 @@ A [Dashboard](https://github.com/WayneNyariroh/StoreSales_PowerBI_Dashboard) for
 To clone
 
 ```
-** git clone https://github.com/WayneNyariroh/StoreSales_Analysis.git**
+ git clone https://github.com/WayneNyariroh/StoreSales_Analysis.git
 ```
 
 Change directory into the repository
 
 ```
-** cd StoreSales_Analysis**
+ cd StoreSales_Analysis
 ```
 
 Activate or create your python virtual environment. Proceed to install the requirements for the project using
 
 ```
-** pip install -r requirements.txt**
+ pip install -r requirements.txt
 ```
 
 Type the following command in the terminal
 
 ```
-** jupyter lab**
+ jupyter lab
 ```
