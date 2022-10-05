@@ -8,6 +8,8 @@ A [Dashboard](https://github.com/WayneNyariroh/StoreSales_PowerBI_Dashboard) for
 
 ![StoreSales_Dashboard!](assets/images/DashboardScreenshot.png "SuperStore Sales Dashboard")
 
+[Retention Analysis on the same dataset](https://github.com/WayneNyariroh/customer-retention_cohortAnalysis)<br>
+
 > Feel free you get the source and make your own and further analysis by either forking to your own github or cloning to your local pc.
 
 To clone
@@ -33,5 +35,3 @@ Type the following command in the terminal
 ```
  jupyter lab
 ```
-
-[Retention Analysis on the same dataset](https://github.com/WayneNyariroh/customer-retention_cohortAnalysis)
