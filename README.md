@@ -33,3 +33,5 @@ Type the following command in the terminal
 ```
  jupyter lab
 ```
+
+[Retention Analysis on the same dataset](https://github.com/WayneNyariroh/customer-retention_cohortAnalysis)
