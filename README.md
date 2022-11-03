@@ -9,29 +9,3 @@ A [Dashboard](https://github.com/WayneNyariroh/StoreSales_PowerBI_Dashboard) for
 ![StoreSales_Dashboard!](assets/images/DashboardScreenshot.png "SuperStore Sales Dashboard")
 
 [Click Here for Retention Analysis on the Same Dataset](https://github.com/WayneNyariroh/customer-retention_cohortAnalysis)<br>
-
-> Feel free you get the source and make your own and further analysis by either forking to your own github or cloning to your local pc.
-
-To clone
-
-```
- git clone https://github.com/WayneNyariroh/StoreSales_Analysis.git
-```
-
-Change directory into the repository
-
-```
- cd StoreSales_Analysis
-```
-
-Activate or create your python virtual environment. Proceed to install the libs/packages for the project using
-
-```
- pip install -r requirements.txt
-```
-
-Type the following command in the terminal
-
-```
- jupyter lab
-```
